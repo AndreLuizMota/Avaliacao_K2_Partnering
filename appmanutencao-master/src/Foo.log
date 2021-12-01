@@ -1,0 +1,4 @@
+=========================================================
+30/Nov/2021 19:38:13 - Classe do Objeto que levantou a exceção: TApplication
+Classe da Exceção levantada: EDatabaseError
+Messagem da Exceção lelvantada: Cannot perform this operation on a closed dataset
